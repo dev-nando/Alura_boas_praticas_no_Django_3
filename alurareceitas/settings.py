@@ -96,7 +96,7 @@ DATABASES = {
         'USER': 'postgres',
         'PASSWORD': get_secret('DB_PASSWORD'),
         'HOST': 'localhost',
-        'PORT': '5050',
+        'PORT': get_secret('SERVER_PORT'),
     }
 }
 
