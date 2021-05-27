@@ -5,4 +5,4 @@
 Código final criado durante o curso [Boas práticas no Django 3: apps, pastas e paginação](https://cursos.alura.com.br/course/django-2-boas-praticas), que faz parte da [Formação Django (_Criando sites e experiências na web com Python_)](https://cursos.alura.com.br/formacao-django).
 
 ### Aviso
-Esse repositório pode ser copiado a vontade, mas ressalto que apenas copia-lo não equivale a realizar o curso. Indico que também façam o curso se houver interesse.#   Alura_Autenticacao_no_Django_3
+Esse repositório pode ser copiado a vontade, mas ressalto que apenas copia-lo não equivale a realizar o curso. Indico que também façam o curso se houver interesse.
